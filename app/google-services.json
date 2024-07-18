@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363198339123",
+    "project_id": "testwalletpass-427414",
+    "storage_bucket": "testwalletpass-427414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363198339123:android:11d2b3e3dd213d6a516b46",
+        "android_client_info": {
+          "package_name": "com.example.testwalletpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363198339123-ng9h2liscl03imd0avukanmnbfdjcdqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testwalletpass",
+            "certificate_hash": "4500cc50a3fcc4488f49920ab40e75cb603c1be3"
+          }
+        },
+        {
+          "client_id": "363198339123-ef1bou44mo739ge4ra36o7dt4mnf6ean.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7jeLS4JZ10g6m-isngWKsloZMQl81J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363198339123-ef1bou44mo739ge4ra36o7dt4mnf6ean.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
